@@ -60,10 +60,6 @@ Given the severity of containing a bug, GLM loses an extra point.
 For one-shot development: Kimi > MiniMax > GLM
 
 However, it appears that:
-.
-For one-shot development: Kimi > MiniMax > GLM
-
-However, it appears that:
 1. GLM is better at detailed specs, architecture, and plans
 2. MiniMax and Kimi are good at implementation
 3. Kimi is best at following multi-step plans
