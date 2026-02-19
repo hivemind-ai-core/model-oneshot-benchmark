@@ -1,0 +1,13 @@
+Please implement the complete rust project described in [SPEC.md](./SPEC.md).
+
+You should implement this by:
+1. Creating a plan (`./PLAN.md`) first
+2. Then implementing the plan
+3. Folloowing a test-first TDD workflow
+4. Afterwards, verify:
+4.A. that all tests pass
+4.B. that there are no type errors or warnings, no format errors
+4.C. compile and manually test the tool
+5. Refactor the code as needed to be clean and performant, then rerun 4 to ensure its still correct
+
+We are using Rust. Verify that all dependency packages are using their latest versions.
