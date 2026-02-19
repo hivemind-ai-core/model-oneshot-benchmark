@@ -4,8 +4,8 @@ This repository contains a one-shot benchmark comparing:
 2. `MiniMax M2.5` (running via Claude Code cli)
 3. `Kimi K2.5` (running via Kimi Code cli)
 
-Each were given an empty directory containing the [SPEC.md](./SPEC.md) file.
-Then each one was prompted with the [PROMPT](./PROMPT.md).
+Each were given an empty directory containing the [SPEC.md](./SPEC.md) file. The specification was written by Claude Opus 4.6.
+Then each one was prompted with the [PROMPT](./PROMPT.txt).
 
 # Manual testing
 
