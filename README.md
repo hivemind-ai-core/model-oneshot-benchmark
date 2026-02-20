@@ -71,6 +71,6 @@ Score 2/5
 * Kimi has a Rust warning, the others don't
 * GLM completed first, this time
 * Only Kimi output the same text format as the single-prompted versions (Minimax and GLM didn't include the icon legend for task list)
-
+* All three implemented some sort of MCP interface this time
 
 
