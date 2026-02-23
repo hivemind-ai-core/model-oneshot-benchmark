@@ -13,7 +13,7 @@ PROMPT
 Let me repeat that:
 PROMPT
 ```
-The dual prompted tests were run separate from the single prompted ones.
+The dual prompted tests were run separate from the single prompted ones. The idea of dual prompting was taken from [this research paper](https://arxiv.org/pdf/2512.14982).
 
 # Manual testing
 
